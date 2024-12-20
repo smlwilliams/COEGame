@@ -1,0 +1,54 @@
+AI Prompts
+
+How do I ask you to create an web game that I can try right on my computer?
+
+Give me a full prompt to create a flappy bird game
+
+what is the foreground supposed to look like?
+
+can you give me an image in png of the foreground?
+
+What is the background supposed to look like?
+
+what is pipe north supposed to look like?
+
+what should be the size of each image?
+
+the bird wont pass the first pipe
+
+fix this code to have infinit game play.
+
+this birst keeps dying at the first pipe, can you fix that?
+
+The north and south pipes look broken almost like they overlap. and I don't want to game to reset unless i hit a pipe
+
+remove the foreground
+
+1. Remove the pipes
+2. Add logic for elements that will be randomly placed on the screen moving like the pipes were moving. the elements will be named pa.png , pbi.png, pwa.png, and pva.png.
+3. When I collide with them remove them from the screen and add 1 point to my score.
+4. the game will end if one of the elements moves past the bird.
+
+1. Add a highschore feature
+2. make sure the elements are generated within the frame
+3. only end the game if the element gets comletely behind the bird
+
+
+add a logo to the top left of the app. the name is logo.png
+
+can you put the logo infront of the background
+
+the logo looks a bit squished can you respect the orginal aspect ratio?
+
+how can you run a html javascript app in sharepoint
+
+make the game faster ever 10 points scored. meaning the bird should move and fall faster. and the elements to move faster.
+
+this is broken the elements stoped appearing make sure the game is infinte
+
+don't forget to speed up the move up too
+
+reduce the amount of elements generated back to back. increment the speed by 0.2 and make sure the elements are not generated too far apart in terms of height.
+
+
+

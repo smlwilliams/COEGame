@@ -1,0 +1,8 @@
+Instructions:
+-	Double Click Index.html to play
+-	Use the space bar or any key to move up
+-	Collide with all elements to get 1 point
+-	Share your high score!
+-	Enjoy
+
+Samuel Williams
